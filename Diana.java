@@ -6,7 +6,7 @@ Diana Yonipha Zibi
 import javax.swing.*;
 public class Diana {
   public static void main(String[] args) {
-  JOptionPane.showMessageDialog(null, "Programming is fun",null, JOptionPane.INFORMATION_MESSAGE);
+  JOptionPane.showMessageDialog(null, "Programming is fun");
    System.exit(0);
   } 
 }
